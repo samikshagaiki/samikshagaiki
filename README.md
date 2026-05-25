@@ -111,12 +111,12 @@ A machine learning-based platform focused on detecting mental health patterns an
 ## ✨ Building Ideas Into Reality
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
+  <img src="./girl_typing_only_hands.gif" width="300" />
 </p>
 
 <p align="center">
   <em>
-  I enjoy transforming ideas into impactful digital solutions.  
-  Always learning, always building, always improving. 🚀
+    I enjoy transforming ideas into impactful digital solutions.<br>
+    Always learning, always building, always improving. 🚀
   </em>
 </p>
